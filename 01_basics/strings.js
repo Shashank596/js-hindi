@@ -40,3 +40,4 @@ console.log(gameName.split('-'));
 // length()--> tells us the length of the string
 //charat()--> tells us the character at the given index
 //indexof()--> tellsus the index of the character
+//replace()--> arguments required--> what to replace replacing element
