@@ -34,6 +34,8 @@ const obj3 = {...obj1, ...obj2}  // best method to join either array or object /
 // console.log(obj3);
 
 
+// Array of objects
+
 const users = [
     {
         id: 1,
@@ -65,9 +67,9 @@ const course = {
     courseInstructor: "hitesh"
 }
 
-// course.courseInstructor
+// course.courseInstructor  // bahut  baar ye likhne se accha hai....
 
-const {courseInstructor: instructor} = course
+const {courseInstructor: instructor} = course  // destructuring ......... 
 
 // console.log(courseInstructor);
 console.log(instructor);
