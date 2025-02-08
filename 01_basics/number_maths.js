@@ -28,7 +28,7 @@ const hundreds = 1000000
 // console.log(Math.max(4, 3, 6, 8));
 
 
-// kuch methods maths ke (broser or mdn )
+// kuch methods maths ke (browser or mdn )
 //++++++++++IMPORTANT++++++++++++++++++++
 
 console.log(Math.random()); // ye 0 and 1 ke beech ke values deta hai
